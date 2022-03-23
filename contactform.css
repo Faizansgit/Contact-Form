@@ -1,0 +1,26 @@
+body {
+    background-color: black
+    
+}
+
+h2 {
+    text-align: center;
+    color: aqua;
+    font: medium;
+}
+div {
+    text-align: center;
+}
+    
+
+p {
+    font-size: medium;
+    font-weight: lighter;
+    font: oblique;
+    color: aqua;
+}
+
+button {
+display: inline;
+    background-color: aqua;
+}
