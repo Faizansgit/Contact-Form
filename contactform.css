@@ -1,26 +1,46 @@
 body {
-    background-color: black
+    background-color:black;
     
 }
 
 h2 {
     text-align: center;
-    color: aqua;
+    color:hsl(24, 98%, 51%);
     font: medium;
 }
 div {
-    text-align: center;
+    background-color:white;
+margin: auto;
+    border-style: outset;
+    width:max-content;
+    
 }
     
 
 p {
+
     font-size: medium;
     font-weight: lighter;
     font: oblique;
-    color: aqua;
+    color:hsl(24, 98%, 51%) ;
 }
-
+form{
+    margin: 10px;
+    width: 350px;
+    text-align: center;
+}
 button {
-display: inline;
-    background-color: aqua;
+   color: white;
+background-color: hsl(24, 98%, 51%);
+margin: 20px;
+
+width: 200px;
+height: 30px;
+border-radius: 5px;
+}
+input {
+    width: 200px;
+    height: 30px;
+    border-color: black;
+    background-color: blanchedalmond;
 }
